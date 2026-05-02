@@ -3,7 +3,7 @@
 ## Ejercicio N° 8
 ## Tabla de contenidos
 
--Nombre: Guzman Luciana Elizabeth
--Legajo: 57967
--Curso: 3k3
--Correo: Luciana.Guzman@alu.frt.utn.edu.ar
+-Nombre: Guzman Luciana Elizabeth  
+-Legajo: 57967  
+-Curso: 3k3  
+-Correo: Luciana.Guzman@alu.frt.utn.edu.ar  
